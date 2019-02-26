@@ -4,12 +4,12 @@
   "query": "海底。",
   "topScoringIntent": {
     "intent": "Mood party",
-    "score": 0.53026837
+    "score": 0.83026837
   },
   "intents": [
     {
       "intent": "Mood party",
-      "score": 0.03026837
+      "score": 0.83026837
     },
     {
       "intent": "Mood baby",
