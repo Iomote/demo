@@ -1,14 +1,84 @@
+{"data":
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "query": "海底。",
+  "topScoringIntent": {
+    "intent": "Mood party",
+    "score": 0.03026837
+  },
+  "intents": [
+    {
+      "intent": "Mood party",
+      "score": 0.03026837
+    },
+    {
+      "intent": "Mood baby",
+      "score": 0.0212405864
+    },
+    {
+      "intent": "Mood relax",
+      "score": 0.0139779374
+    },
+    {
+      "intent": "Mood romantic",
+      "score": 0.0104476875
+    },
+    {
+      "intent": "Make coffe",
+      "score": 0.006024655
+    },
+    {
+      "intent": "Air quality",
+      "score": 0.00529719563
+    },
+    {
+      "intent": "Cabinet - Open",
+      "score": 0.00484003453
+    },
+    {
+      "intent": "Shop list",
+      "score": 0.004829969
+    },
+    {
+      "intent": "Cabinet - Close",
+      "score": 0.004325462
+    },
+    {
+      "intent": "Light - Colors",
+      "score": 0.00352576328
+    },
+    {
+      "intent": "Stop music",
+      "score": 0.00331529556
+    },
+    {
+      "intent": "Light - Off",
+      "score": 0.00325498171
+    },
+    {
+      "intent": "Fridge - Open",
+      "score": 0.00283236313
+    },
+    {
+      "intent": "None",
+      "score": 0.002712411
+    },
+    {
+      "intent": "Play music",
+      "score": 0.00128427206
+    },
+    {
+      "intent": "Drawer - Open",
+      "score": 0.00117261172
+    },
+    {
+      "intent": "Drawer - Close",
+      "score": 0.0008497847
+    },
+    {
+      "intent": "Music list",
+      "score": 0.0008125105
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "entities": []
+}
 }
